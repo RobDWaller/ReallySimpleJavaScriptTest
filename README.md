@@ -3,12 +3,12 @@
 A simple data manipulation and styling test for front end developers. There are
 numerous ways to complete the tasks involved in this test and there are no right,
 or perfect answers. The test though will reveal roughly how knowledgeable and
-experienced a developer is.
+experienced a front end developer is.
 
 ## The Test
 
-This test aims to see how well a developer understands JavaScript data manipulation
-and how well they can style HTML output.
+This test aims to see how well a front end developer understands JavaScript data
+manipulation and how well they can style HTML output.
 
 The test is based on a JSON object that is broken down into child objects and
 arrays. This object is stored in the `./assets/js/test-data.js` file.
@@ -63,16 +63,32 @@ be written in the file `./assets/js/test-script.js`
 
 - Display the user data stored in `./assets/js/test-data.js` in the index.html file.
 - The displayed data should be placed inside the div with the id `#test-data`.
-- The displayed data should include the fields: id, username, email, comment_count,
-like_count, like_count per login_count, and created_at.
-- The data should be ordered by like_count per login_count in descending order.
-- Please style the outputted HTML so it looks presentable.
+- The displayed data should include the fields: id, username, email, comment count,
+like count, like count per login count, and created at.
+- You will have to calculate the like count per login count field based on existing
+data fields.
+- The data should be ordered by the calculated field like count per login count
+in descending order.
+- Please style the outputted HTML so it looks presentable and so it can be viewed
+on a mobile device.
 
 ### Additional Information
 There are no rules on how you should complete this task, nor are there any
 restrictions on what libraries you can and cannot use to complete this task.  
 
 Also feel free to style the displayed data as you see fit.
+
+## Notes for Interviewers
+
+If you would like to use this test for interviewing candidates we advise that it
+is used in the following ways.
+
+- This test should go hand in hand with an actual interview, it should not be
+used as a filter.
+- Candidates should be made aware that they will not be assessed based on this 
+test alone.
+- Advise candidates they should not spend more than 30-60 minutes on this test
+regardless of whether they complete it or not.
 
 ## Authors
 
