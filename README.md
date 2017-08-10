@@ -79,7 +79,7 @@ There are no rules on how you should complete this task, nor are there any
 restrictions on what libraries you can and cannot use to complete this task.  
 
 Also feel free to style the displayed data as you see fit. In addition there are
-no rules defining whether you can tools like SASS or LESS to generate CSS.
+no rules defining whether you can use tools like SASS or LESS to generate CSS.
 
 ## Notes for Interviewers
 
