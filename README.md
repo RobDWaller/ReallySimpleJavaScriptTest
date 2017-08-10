@@ -63,7 +63,7 @@ Any written or generated CSS should appear in the file `./assets/css/style.css`.
 
 ### The Tasks
 
-- Display the user data stored in `./assets/js/test-data.js` in the index.html file.
+- Display the user data stored in `./assets/js/test-data.js` in the `./index.html` file.
 - The displayed data should be placed inside the div with the id `#test-data`.
 - The displayed data should include the fields: id, username, email, comment count,
 like count, like count per login count, and created at.
@@ -97,7 +97,7 @@ regardless of whether they complete it or not.
 
 Rob Waller
 
-Twitter: (@robdwaller)[https://twitter.com/robdwaller]
+Twitter: [@robdwaller](https://twitter.com/robdwaller)
 
 ## License
 
