@@ -1,4 +1,4 @@
-# ReallySimpleJavaScriptTest
+# Really Simple JavaScript Test
 
 A simple data manipulation and styling test for front end developers. There are
 numerous ways to complete the tasks involved in this test and there are no right,
