@@ -14,7 +14,9 @@ The test is based on a JSON object that is broken down into child objects and
 arrays. This object is stored in the `./assets/js/test-data.js` file.
 
 Your JavaScript code for manipulating the data and passing it to the DOM should
-be written in the file `./assets/js/test-script.js`
+be written in the file `./assets/js/test-script.js`.
+
+Any written or generated CSS should appear in the file `./assets/css/style.css`.
 
 ### The JSON Object
 
@@ -76,7 +78,8 @@ on a mobile device.
 There are no rules on how you should complete this task, nor are there any
 restrictions on what libraries you can and cannot use to complete this task.  
 
-Also feel free to style the displayed data as you see fit.
+Also feel free to style the displayed data as you see fit. In addition there are
+no rules defining whether you can tools like SASS or LESS to generate CSS.
 
 ## Notes for Interviewers
 
@@ -85,7 +88,7 @@ is used in the following ways.
 
 - This test should go hand in hand with an actual interview, it should not be
 used as a filter.
-- Candidates should be made aware that they will not be assessed based on this 
+- Candidates should be made aware that they will not be assessed based on this
 test alone.
 - Advise candidates they should not spend more than 30-60 minutes on this test
 regardless of whether they complete it or not.
