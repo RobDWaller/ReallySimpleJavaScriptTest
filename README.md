@@ -20,8 +20,8 @@ Any written or generated CSS should appear in the file `./assets/css/style.css`.
 
 ### The JSON Object
 
-The JSON Object is broken down into two core objects `user.metaData` and `user.metricData`
-it's important to note that the items held with these objects are related to
+The JSON object is broken down into two core objects `user.metaData` and `user.metricData`
+it is important to note that the items held with these objects are related to
 each other based on their `id`. Please make sure to look at the data before you
 proceed with the test.
 
